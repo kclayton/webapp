@@ -1,4 +1,4 @@
-Docker Fundamentals WebApp is not working
+Docker Fundamentals WebApp might work
 ==========================
 
 The Docker Fundamentals repository contains the example Hello World Python WebApp
